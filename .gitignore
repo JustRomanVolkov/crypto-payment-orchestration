@@ -1,0 +1,10 @@
+# Local IDE and tooling files
+.idea/
+.vscode/
+.serena/
+
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*~
