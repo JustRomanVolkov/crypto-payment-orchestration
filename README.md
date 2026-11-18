@@ -15,4 +15,6 @@ Architectural decisions cover both modular monolith and
 microservice approaches, including service boundaries,
 infrastructure choices, scalability, and trade-offs.
 
+Start with the [Billing documentation](docs/billing/README.md) for the main overview and navigation.
+
 Documentation is written in Russian.
